@@ -32,4 +32,8 @@ to check what remote repositories are linked to local
 
 git push origin master (master is branch)
 
-initialize 
+initialize git repo
+    git init
+    git add . or file name
+    git commit - m "first commit"
+    git remote
