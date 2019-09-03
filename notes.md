@@ -26,11 +26,12 @@ commit = SAVES CHANGES
 
 
 push =  pushing to remote repository
+    git push origin master (master is branch)
 
 to check what remote repositories are linked to local
     git remote -v
 
-git push origin master (master is branch)
+
 
 initialize git repo
     git init
